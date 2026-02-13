@@ -1,0 +1,36 @@
+hálózat bitek : első 24 oktet Host bitek a maradék a 32ig
+11 | 000000 --> Hálózat cím (full 0)
+11 | 111111 --> Szórási cím (full 1)
+ha hálózat ban van 0 és egy akkor hálózat cím de meg kelle adni hogy melyik gép cím (Vegyes) a hosztbiteknél
+kiszámoljuk a gép címet :
+hoszt bit +1 (első gép cím) ----- utolsó (.254) meghatározom mettől meddig kell kivonni a címeket
+
+32(full host bit(össz)) - 26(prefix)
+2**6 = 64
+2**8 = 256
+
+   |
+   |
+   v
+
+256 - 64
+(https://jodies.de/ipcalc)
+
+172.168.10.192 /22
+3 oktettől érinti a prefix:
+--> 172.168. 000010 | 10.11000000 2oktett = 16 tehát 22 nél vágom el)
+--> 172.168. 000010 | 10.11000000 ---> tényleges ip cím mert a host bitek vegyesek
+
+--> 172.168. 000010 | 00.00000000 --> Hálózat cím
+= 172.168.8.0
+
+172.168. [000010 | 11].11111111 --> Szórás cím
+172.168.11	      .255
+
+kiosztható címek:
+172.168.8.1(+1) - 172.168.11.254
+2**10 - 2 = 1022 db cím
+
+Maszk:
+255.255.252.0
+255.255.11111100.00000000

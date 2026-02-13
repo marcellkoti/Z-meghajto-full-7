@@ -1,0 +1,9 @@
+print(type(_a))
+_a=123
+print(type(_a))
+_a=True
+print(type(_a))
+_a=345.234
+print(type(_a))
+_a=int(a)
+print(type(_a))

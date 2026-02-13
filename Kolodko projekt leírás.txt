@@ -1,0 +1,96 @@
+Kolodko Projekt
+
+MAXIMUM 2 FŐ / projekt
+2 fő feladatainak egyértelmű meghatározása
+Megosztott GITHUB repository a csapat két tagja között.
+
+Kolodko Mihály bemutatása
+8 szobor bemutatása (6 egyedi)
+Minden szoborról leírás - jelentőség, történet 500 - 1500 karakter
+Útvonalterv - Kirándulás térkép
+   Szobrok érintésével és 1-2 városi nevezetesség a szoborhoz közel
+
+PL: MrBean Lufikutya Breki usánka Süsü STB...l
+
+Feladatok
+1) Kolodko Mihály élete és munkássága - kutatás - MarkDown formátumban GITHUB tárolóban (Kolodko.md)
+	1.1 Képek Kolodkóról (min 8 kép)
+	1.2 Esszé Kolodko életéről és munkásságáról (3-4ezer kar) 
+	1.3 Forrásgyűjtemény (5forrás)
+
+2)Szobrok leírása - MarkDown formátumban GITHUB tárolóban (szobrok.md)
+	2.1 Első szobor
+		2.1.1 Fényképek
+		2.1.2 Esszé (jelentőség, történet 500 - 1500 kar)
+	2.2 Második szobor
+		2.2.1 Fényképek
+		2.2.2 Esszé (jelentőség, történet 500 - 1500 kar)
+	...
+	2.8 Nyolcadik szobor
+		2.8.1 Fényképek
+		2.8.2 Esszé (jelentőség, történet 500 - 1500 kar)
+	2.9 Forrásgyűjtemény
+
+3) Túristatérkép
+	3.1 Utvonal feltérképezése
+	3.2 Google útvonal megjelenítés
+	3.3 Nevezetességek megnevezése (min 6db)
+		3.3.1 6db Esszé (rövid ismertető 200-500 kar)
+		3.3.2 Hivatalos oldal linkje	
+3.4 Forrásgyűjtemény
+
+4) Weboldal (Bootstrap javascript oldal)
+	4.1 Landing oldal (Látványos, kreatív) 
+		4.1.1 Drótváz
+		4.1.2 Grafikai előkészületek
+		4.1.3 Galéria
+		4.1.3 HTML-CSS oldal Bootstrap-el
+	4.2 Szobrok bemutatása
+		4.2.1 Drótváz/ak
+		4.2.2 Grafikai előkészületek
+		4.2.3 HTML-CSS oldal Bootstrap-el és JavaScript (pl képnézegető)
+	4.3 Túrista útvonal ajánló	
+		4.3.1 Google térkép generálása
+		4.3.2 Szobrok és városi nevezetességek megjelenítése
+		4.3.3 BKK útvonalterv készítése
+		4.3.4 HTML-CSS oldal Bootstrap-el
+	4.4 Kolodko Mihályt bemutató oldal
+		4.4.1 Bemutatkozás
+		4.4.2 Főbb művek
+		4.4.3 Külföldi hasonló szobrászok megemlítése
+
+5) Projekt bemutatása
+	5.1 Összefoglaló (Esszé)
+	5.2 Prezentáció
+	5.3 GITHUB tároló használata
+	5.4 GUTHUB oldalon publikálni a teljes weboldalt
+
+6) Értékelés
+	
+
+Értékelési szempontok:
+	
+1. mérföldkő: december 11 1-2-3 feladat
+
+2. mérföldkő: január 15 Teljes projekt
+
+1) 	a) Esszé több forrás alapján készül
+	b) Megfelelő terjedelem
+	c) Megfelelően tagolt esszé
+	d) Címek-alcímek használata
+	e) Érdekes,jó minőségű képek min darabszámban
+2)	a) Saját képek-taggal
+	b) Érdekes esszé
+	c) Szobrok esszéinek/képek mennyisége
+	d) Önálló gondolatok
+	e) Tagolás
+3)	a) térkép megléte
+	b) Utvonalterv szobrok jelölésével
+	c) Nevezetességek jelölése, bemutatása
+	d) Esszék tagolása
+	e) Források listája és felhasználása
+4.1)	a) Landing oldal fogalma
+	b) Látványos elemek (szép, ízléses, figyelemfelkeltő)
+	c) 
+
+
